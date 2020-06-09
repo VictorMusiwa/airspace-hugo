@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://pcn.netlify.com"
+baseURL = "https://pcn.netlify.app"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 # post pagination
