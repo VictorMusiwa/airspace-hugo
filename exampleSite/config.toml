@@ -82,7 +82,7 @@ description = "This is meta description"
 email = "hello@digitizeafrica.store"
 google_analitycs_id = ""
 location = "Windhoek, Namibia"
-logo = "images/logo-1.png"
+logo = "images/logo.png"
 mobile = "+264 811480366"
 multi_author = true
 [params.gmap]
