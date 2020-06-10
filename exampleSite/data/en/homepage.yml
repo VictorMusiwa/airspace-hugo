@@ -110,19 +110,19 @@ funfacts:
     count: "200"
   testimonial_slider:
   - name: Doreen Lyomba
-    image: ''
+    image: images/avatar.png
     designation: Purposeful Camp Namibia Participant
     content: 'My experience with PCN was life-changing. From creating strong bonds
       with people on the same wavelength as myself to truly having an honest introspection
       of my character and life in general. It will remain an experience I will cherish
       for a lifetime.” '
   - name: Eliaser Paulus
-    image: ''
+    image: images/avatar.png
     designation: Purposeful Camp Namibia Participant
     content: Thank you, Purposeful Camp Namibia for being the sole initiator of a
       Purposeful journey in my life.
   - name: Justina Mulenga
-    image: ''
+    image: images/avatar.png
     designation: Purposeful Camp Namibia Participant
     content: Purposeful Camp Namibia helped me realize the change I can bring to my
       community. It also helped me with financial literacy and emotional intelligence
