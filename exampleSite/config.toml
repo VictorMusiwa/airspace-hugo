@@ -76,24 +76,24 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [params]
-author = "Themefisher"
+author = "Digitize Africa"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "hello@digitizeafrica.store"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Windhoek, Namibia"
 logo = "images/logo-1.png"
-mobile = "0124857985320"
-multi_author = false
+mobile = "+264 811480366"
+multi_author = true
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Join our next adventure"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -121,20 +121,8 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
+icon = "ion-social-facebook-outline"
+link = "https://www.facebook.com/Ndakondja-Uusiku-Motivations-103100494402925/"
 [[params.social]]
 icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
 link = "#"
