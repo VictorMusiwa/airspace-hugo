@@ -11,7 +11,7 @@ banner:
     through various activities that are aligned with the three P’s: Purpose, Passion
     and Proactivity."
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
