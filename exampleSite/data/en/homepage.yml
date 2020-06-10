@@ -100,14 +100,14 @@ funfacts:
     name: Participants to date
     count: "99"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Targeted participants in 5 years
+    count: "500"
   - icon: ion-ios-compose-outline
     name: Camps hosted so far
     count: "2"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: Age limit
+    count: "20"
   testimonial_slider:
   - name: Doreen Lyomba
     image: images/avatar.png
