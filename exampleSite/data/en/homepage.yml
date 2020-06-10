@@ -82,21 +82,21 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Randi Renin
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Rose Rio
-    image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+  - name: Doreen Lyomba
+    image: ''
+    designation: Purposeful Camp Namibia Participant
+    content: 'My experience with PCN was life-changing. From creating strong bonds
+      with people on the same wavelength as myself to truly having an honest introspection
+      of my character and life in general. It will remain an experience I will cherish
+      for a lifetime.” '
+  - name: Eliaser Paulus
+    image: ''
+    designation: Purposeful Camp Namibia Participant
+    content: Thank you, Purposeful Camp Namibia for being the sole initiator of a
+      Purposeful journey in my life.
+  - name: Justina Mulenga
+    image: ''
+    designation: Purposeful Camp Namibia Participant
+    content: Purposeful Camp Namibia helped me realize the change I can bring to my
+      community. It also helped me with financial literacy and emotional intelligence
+      as well.
