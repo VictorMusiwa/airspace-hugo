@@ -98,16 +98,16 @@ funfacts:
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Participants to date
-    count: "99"
+    count: "40"
   - icon: ion-ios-glasses-outline
-    name: Targeted participants in 5 years
+    name: Target participants in 5 years
     count: "500"
   - icon: ion-ios-compose-outline
     name: Camps hosted so far
-    count: "2"
+    count: "1"
   - icon: ion-ios-timer-outline
-    name: Age limit
-    count: "20"
+    name: Total impacted lives
+    count: "300"
   testimonial_slider:
   - name: Doreen Lyomba
     image: images/avatar.png
