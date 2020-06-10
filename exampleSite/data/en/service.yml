@@ -33,6 +33,15 @@ service:
   description: We would like to acknowledge these organizations for their generous
     support this course.
   service_item:
+  - icon: meatco
+    name: Meatco
+    content: ''
+  - icon: tunacor
+    name: Tunacor
+    content: ''
+  - icon: old mutual
+    name: Old Mutual
+    content: ''
   - icon: images/nwr.png
     name: Namibia Wildlife Resorts
     content: ''
