@@ -82,7 +82,7 @@ description = "Purposeful Camp Namibia"
 email = "hello@digitizeafrica.store"
 google_analitycs_id = ""
 location = "Windhoek, Namibia"
-logo = "images/logo.jpg"
+logo = "images/logo.png"
 mobile = "+264 811480366"
 multi_author = false
 [params.gmap]
