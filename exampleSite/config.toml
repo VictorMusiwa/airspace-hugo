@@ -19,66 +19,24 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.main]]
-URL = ""
-name = "Our Team"
-weight = ""
+[menu]
+footer = []
 [[menu.main]]
 URL = "about"
 name = "About Us"
 weight = 1
 [[menu.main]]
-URL = "project"
-name = "Project"
-weight = 2
+URL = ""
+name = "Our Team"
+weight = "2"
 [[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+URL = ""
+name = "Gallery"
+weight = "3"
 [[menu.main]]
 URL = "contact"
-name = "Contact"
-weight = 6
+name = "Apply"
+weight = "4"
 [params]
 author = "Digitize Africa"
 contact_form_action = "#"
