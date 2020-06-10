@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://pcn.netlify.app"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Purposeful Camp Namibia"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
