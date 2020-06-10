@@ -22,7 +22,7 @@ weight = 2
 [menu]
 footer = []
 [[menu.main]]
-URL = "about"
+URL = ""
 name = "About Us"
 weight = 1
 [[menu.main]]
@@ -34,7 +34,7 @@ URL = ""
 name = "Gallery"
 weight = "3"
 [[menu.main]]
-URL = "contact"
+URL = ""
 name = "Apply"
 weight = "4"
 [params]
