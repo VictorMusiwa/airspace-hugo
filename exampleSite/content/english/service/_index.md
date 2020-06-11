@@ -8,11 +8,10 @@ description: 'Purposeful Camp Namibia sees its annual alumni conquering and taki
   and Proactivity.'
 bg_image: "/images/page-title.jpg"
 type: post
-image: "/images/nwr.png"
+image: ''
 date: 
 author: ''
 categories: []
 tags: []
 
 ---
-![](/images/mtc.png)
