@@ -9,6 +9,9 @@ about:
     through various activities that are aligned with the three P’s: Purpose, Passion
     and Proactivity.\n\n"
   image: images/group1.jpg
+  button:
+    enable: true
+    label: Just a test
 featured_service:
   enable: false
   service_item:
