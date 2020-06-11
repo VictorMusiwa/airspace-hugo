@@ -4,7 +4,7 @@ description = "Purposeful Camp Namibia sees its annual alumni conquering and tak
 title = "About Us"
 
 +++
-The Origin Story
+**The Origin Story**
 
 The Purposeful Camp Namibia story starts with a ten minutes voice note that was send out at 3 AM that led to the fruition of the camp.
 
@@ -12,7 +12,7 @@ So, Ndakondja Uusiku was up at 3 AM watching motivational videos when the idea h
 
 On the 12th June 2019 the team met at Cramers and that led to the creation of the founding team of Purposeful Camp Namibia which resulted to the ultimate purposeful experience as from 29 November – 4 December 2019 which resulted in the transformation of 40 participants.
 
-Here’s Our WHY
+**Here’s Our WHY**
 
 We are 20 years into the 21st century and the status quo does not speak volume about millennials. Speaking from a personal insight, we attend so many personal development functions, and it is unfortunate that our peers are hardly seen at such functions but rather at less productive events. We have identified a gap in mind-sets and stereotypical mentalities within our generation. As the youth, it is not a questionable matter that we are the leaders and pioneers of tomorrow; however, the current conditions scream uncertainty as to whether we will be competent enough to spearhead this country into prosperity as our elders have done for us. There is no assurance that we will be able to take up the Namibian Torch and continue to run the race to make NAMIBIA GREAT.
 
@@ -20,17 +20,12 @@ It is against this background that we have taken the responsibility to uplift on
 
 **Aims and objectives**
 
-\-to instil a culture of engaging in purposeful occasions
-
-\-to nurture potential public speakers and enhance their skills
-
-\-to spark the spirit of financial, social and personal emancipation among youth
-
-\-to assist in self-discovery and growth
-
-\-to incorporate entrepreneurial mentorship
-
-\-explore leadership aspects and apply them in daily life (both on a personal and communal scale)
+* to instil a culture of engaging in purposeful occasions
+* to nurture potential public speakers and enhance their skills
+* to spark the spirit of financial, social and personal emancipation among youth
+* to assist in self-discovery and growth
+* to incorporate entrepreneurial mentorship
+* explore leadership aspects and apply them in daily life (both on a personal and communal scale)
 
 **Long-term vision**
 
@@ -42,10 +37,7 @@ transforming the country through various activities that are aligned with the th
 
 The abovementioned aims will be met through a seven-day wilderness camp comprising of the following traits:
 
-▪ Course lectures on: personal development, financial education, leadership and public speaking skills
-
-▪ Practical activities on the aforementioned lectures
-
-▪ Engagement session with Purposeful Camp’s Patron (Hon. Tom Alweendo, Minister of Mines and Energy)
-
-▪ 3 months post-training mentorship series for camp alumni
+* Course lectures on: personal development, financial education, leadership and public speaking skills
+* Practical activities on the aforementioned lectures
+* Engagement session with Purposeful Camp’s Patron (Hon. Tom Alweendo, Minister of Mines and Energy)
+* 3 months post-training mentorship series for camp alumni
