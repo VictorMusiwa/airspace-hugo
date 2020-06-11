@@ -41,5 +41,3 @@ The abovementioned aims will be met through a seven-day wilderness camp comprisi
 * Practical activities on the aforementioned lectures
 * Engagement session with Purposeful Camp’s Patron (Hon. Tom Alweendo, Minister of Mines and Energy)
 * 3 months post-training mentorship series for camp alumni
-
-![](/images/group1.jpg)
