@@ -10,7 +10,7 @@ about:
     and Proactivity.\n\n"
   image: images/pcn_logo_big.jpg
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: Interface Design
     icon: ion-erlenmeyer-flask
