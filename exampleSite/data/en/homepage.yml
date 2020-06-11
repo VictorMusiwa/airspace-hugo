@@ -26,7 +26,7 @@ about:
     and Proactivity."
   image: images/group1.jpg
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/logospread.png
   title: 'Here’s Our WHY '
   content: "We are 20 years into the 21st century and the status quo does not speak
