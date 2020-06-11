@@ -16,4 +16,3 @@ fields:
   description: page header background image
 pages:
 - exampleSite/content/english/pages/about-us.md
-- exampleSite/content/english/pages/test-page.md
