@@ -15,6 +15,7 @@ fields:
   label: bg image
   description: page header background image
 pages:
+- exampleSite/content/english/pages/about-us-1.md
 - exampleSite/content/english/pages/about-us.md
 - exampleSite/content/english/pages/about-us.md
 - layouts/index.html
