@@ -13,6 +13,15 @@ fields:
 - type: text
   name: email
   label: email
+- name: biography
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Biography
 - type: field_group_list
   name: social
   label: social
