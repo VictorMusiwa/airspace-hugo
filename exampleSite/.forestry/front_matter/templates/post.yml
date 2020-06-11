@@ -33,4 +33,5 @@ fields:
   label: type
   default: post
 pages:
+- layouts/index.html
 - layouts/service/list.html
