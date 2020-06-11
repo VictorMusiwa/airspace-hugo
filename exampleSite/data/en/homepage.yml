@@ -15,7 +15,7 @@ banner:
     label: Discover Our Project
     link: project
 about:
-  enable: true
+  enable: false
   title: Welcome to the Purposeful Camp Namibia website
   description: ''
   content: "Purposeful Camp Namibia sees its annual alumni conquering and taking charge
