@@ -12,10 +12,7 @@ about:
   button:
     enable: true
     label: Just a test
-  funfacts:
-  - icon: fnb
-    name: FNB
-    count: ''
+  funfacts: []
 featured_service:
   enable: false
   service_item:
