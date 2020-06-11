@@ -1,6 +1,7 @@
 ---
 title: Service
 description: this is meta description
-bg_image: "/images/pcn_logo_big.jpg"
+bg_image: images/featue-bg.jpg
 
 ---
+![](/images/mtc.png)
