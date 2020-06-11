@@ -52,6 +52,7 @@ about:
   - icon: ''
     name: Another test
     count: ''
+  description: Not sure what goes here
 featured_service:
   enable: false
   service_item:
