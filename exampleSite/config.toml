@@ -22,10 +22,6 @@ weight = 2
 [menu]
 footer = []
 [[menu.main]]
-URL = "pages/our-partners"
-name = "Partners"
-weight = "4"
-[[menu.main]]
 URL = "pages/about-us"
 name = "About Us"
 weight = 1
@@ -33,6 +29,10 @@ weight = 1
 URL = "blog"
 name = "Our Team"
 weight = "2"
+[[menu.main]]
+URL = "pages/our-partners"
+name = "Partners"
+weight = "4"
 [[menu.main]]
 URL = "project"
 name = "Gallery"
