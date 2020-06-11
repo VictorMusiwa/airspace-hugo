@@ -53,5 +53,5 @@ service:
     content: ''
 cta:
   enable: false
-title: ''
+title: About Us
 draft: true
