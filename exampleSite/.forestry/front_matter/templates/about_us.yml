@@ -21,3 +21,5 @@ fields:
   config:
     maxSize: 64
   label: bg_image
+pages:
+- exampleSite/content/english/service/_index.md

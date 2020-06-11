@@ -9,7 +9,7 @@ description: 'Purposeful Camp Namibia sees its annual alumni conquering and taki
 bg_image: "/images/page-title.jpg"
 type: post
 image: ''
-date: 
+date: ''
 author: ''
 categories: []
 tags: []
