@@ -96,4 +96,9 @@ service:
     name: MTC
     content: ''
 cta:
-  enable: false
+  enable: true
+  title: What is here under CTA
+  content: More content
+  button:
+    enable: true
+    label: Call to action
