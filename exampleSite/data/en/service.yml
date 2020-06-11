@@ -28,7 +28,7 @@ featured_service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
 service:
-  enable: true
+  enable: false
   title: Our Partners
   description: We would like to acknowledge these organizations for their generous
     support this course.
