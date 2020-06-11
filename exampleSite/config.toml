@@ -26,7 +26,7 @@ URL = ""
 name = "About Us"
 weight = 1
 [[menu.main]]
-URL = "projects"
+URL = "project"
 name = "Our Team"
 weight = "2"
 [[menu.main]]
