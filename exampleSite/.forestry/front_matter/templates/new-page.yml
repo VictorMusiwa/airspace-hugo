@@ -18,4 +18,5 @@ pages:
 - exampleSite/content/english/pages/about-us.md
 - exampleSite/content/english/pages/about-us.md
 - exampleSite/content/english/pages/our-partners.md
+- exampleSite/content/english/team/ndakondja.md
 - layouts/index.html
