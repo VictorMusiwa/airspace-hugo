@@ -54,7 +54,7 @@ about:
     count: ''
   description: Not sure what goes here
 featured_service:
-  enable: false
+  enable: true
   service_item:
   - name: Interface Design
     icon: ion-erlenmeyer-flask
