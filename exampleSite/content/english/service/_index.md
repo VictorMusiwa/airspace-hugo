@@ -7,6 +7,12 @@ description: 'Purposeful Camp Namibia sees its annual alumni conquering and taki
   through various activities that are aligned with the three P’s: Purpose, Passion
   and Proactivity.'
 bg_image: "/images/page-title.jpg"
+type: post
+image: "/images/nwr.png"
+date: 
+author: ''
+categories: []
+tags: []
 
 ---
 ![](/images/mtc.png)
