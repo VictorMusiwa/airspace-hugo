@@ -99,7 +99,7 @@ funfacts:
     count: "1"
   - icon: ion-ios-timer-outline
     name: Total impacted lives
-    count: "300"
+    count: "400"
   testimonial_slider:
   - name: Doreen Lyomba
     image: images/avatar.png
