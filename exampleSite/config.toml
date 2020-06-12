@@ -26,18 +26,6 @@ URL = "pages/about-us"
 name = "About Us"
 weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Our Team"
-weight = "2"
-[[menu.main]]
-URL = "pages/our-partners"
-name = "Partners"
-weight = "4"
-[[menu.main]]
-URL = "project"
-name = "Gallery"
-weight = "3"
-[[menu.main]]
 URL = ""
 name = "Apply"
 weight = "4"
