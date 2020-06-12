@@ -10,6 +10,6 @@ title = "Apply"
 
 alternatively
 
-[Click here to download the application form](images/pcnapp.pdf "Offline Application Form")
+[Click here to download the application form](https://www.purposefulcampnamibia.com/images/pcnapp.pdf "Offline Application Form")
 
 ![](/images/pcn_flyer.jpg)
